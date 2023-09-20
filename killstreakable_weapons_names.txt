@@ -33,12 +33,7 @@ Air Strike
 
 Shotgun
 Reserve Shooter
-Gunboats
-Battalion's Backup
-Concheror
-Mantreads
 Righteous Bison
-B.A.S.E. Jumper
 
 Shovel
 Equalizer
@@ -127,7 +122,6 @@ Lugermorph
 Short Circuit
 
 Wrench
-Golden Wrench
 Gunslinger
 Southern Hospitality
 Jag
